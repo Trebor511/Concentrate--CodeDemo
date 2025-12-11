@@ -1,3 +1,24 @@
+The .exe to start the game is in the bin folder
+
+Controls, Keyboard:
+WASD - Move
+Space - Shoot
+P - Pause
+WHILE PAUSED:
+Up/Down - Change Music Volume
+Left/Right - Change Sound Volume
+Hold P + C,V,B (KEYBOARD ONLY) - Change Resolution
+Moving while paused will resume the game.
+Hold right shift to get extra lives.
+
+Controls, Controller:
+DPAD - Move
+South - Shoot
+Start - Pause
+WHILE PAUSED:
+Bumpers - Change Music Volume
+Triggers - Change Sound Volume
+
 Music:
 Daytime Delights - https://freemusicarchive.org/music/Amil_Byleckie/Amil_is_Personal/daytime_delights/
 Good Morning St. Martin - https://freemusicarchive.org/music/aldous-ichnite/good-morning-st-martin
@@ -23,23 +44,3 @@ Font - https://www.fontspace.com/bubble-jelly-font-f61372
 
 Stage Textures:
 Cityscape - https://stock.adobe.com/search/images?k=city+background&asset_id=165867101
-
-Controls, Keyboard:
-WASD - Move
-Space - Shoot
-P - Pause
-WHILE PAUSED:
-Up/Down - Change Music Volume
-Left/Right - Change Sound Volume
-Hold P + C,V,B (KEYBOARD ONLY) - Change Resolution
-Moving while paused will resume the game.
-Hold right shift to get extra lives.
-
-Controls, Controller:
-DPAD - Move
-South - Shoot
-Start - Pause
-WHILE PAUSED:
-Bumpers - Change Music Volume
-Triggers - Change Sound Volume
-NOTE: The controller's usability is up in the air. We were not able to test it ourselves, so it's not marked off in the rubric.
